@@ -2,3 +2,5 @@
 /node_modules
 /obj
 /Client.csproj.user
+.vscode/
+codealike.json

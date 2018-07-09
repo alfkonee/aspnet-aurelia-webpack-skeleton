@@ -1,6 +1,7 @@
 {
   "name": "aspnet-aurelia-webpack-skeleton",
   "version": "1.0.0",
+  "private": true,
   "license": "MIT",
   "scripts": {
     "start": "webpack-dev-server --config webpack.development-hmr.js --open",
